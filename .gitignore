@@ -1,0 +1,10 @@
+# Skill packaging output (Chinese tree for SkillHub lives here)
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / OS
+.DS_Store
+Thumbs.db

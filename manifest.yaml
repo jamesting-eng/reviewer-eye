@@ -1,0 +1,20 @@
+name: reviewer-eye
+version: 2.1.2
+description: "Reviewer-mindset self-audit for academic documents — 50 checkpoints on structure, method-evidence alignment, design feasibility, journal-versus-design priority, direction review against sunk cost, and AI-sounding jargon cleanup"
+category: academic-writing
+author: jamesting-eng
+license: MIT
+homepage: https://github.com/jamesting-eng/workbuddy-skills
+repository: https://github.com/jamesting-eng/workbuddy-skills
+keywords:
+  - academic-writing
+  - peer-review
+  - self-audit
+  - journal-submission
+  - research-design
+  - reviewer-mindset
+  - checklists
+platforms:
+  - any
+requirements:
+  - "None — pure text skill, no scripts, no dependencies"
