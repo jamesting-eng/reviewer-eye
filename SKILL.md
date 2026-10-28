@@ -1,7 +1,22 @@
 ---
 name: reviewer-eye
+slug: reviewer-eye
+displayName: Reviewer Eye
 version: "2.1.2"
-description: Use when writing, reviewing, revising, or self-auditing academic papers, research proposals, journal submissions, study designs, or any deliverable that will be judged by a critical human reviewer. Triggers include paper, submission, peer review, journal, core journal, outline, proposal, self-audit, self-review, desk reject, topic selection, sample, title, journal requirements, formatting, SSCI, SCI, ESCI, impact factor, quartile, target journal, change of title, change of journal, word limit, length requirement, multiple revision rounds, direction review, AI-sounding wording, jargon cleanup. Enforces reviewer-mindset self-audit: structure follows reading order, promises match content, methods match data, claims match evidence, samples really exist in the research setting, the title's every content word has a research question carrying it, research design is protected before journal requirements, numbers verified by addition, decisions preserved through rewrites, direction re-examined against sunk cost, and jargon scrubbed everywhere.
+summary: Reviewer-mindset self-audit for academic documents - 50 checkpoints on structure, method-evidence alignment, design feasibility, journal-versus-design priority, direction review, and AI-sounding jargon cleanup
+description: |
+  Use when writing, reviewing, revising, or self-auditing academic papers, research proposals,
+  journal submissions, study designs, or any deliverable that will be judged by a critical human
+  reviewer. Triggers include paper, submission, peer review, journal, core journal, outline,
+  proposal, self-audit, self-review, desk reject, topic selection, sample, title, journal
+  requirements, formatting, SSCI, SCI, ESCI, impact factor, quartile, target journal,
+  change of title, change of journal, word limit, length requirement, multiple revision rounds,
+  direction review, AI-sounding wording, jargon cleanup.
+  Enforces reviewer-mindset self-audit: structure follows reading order, promises match content,
+  methods match data, claims match evidence, samples really exist in the research setting, the
+  title's every content word has a research question carrying it, research design is protected
+  before journal requirements, numbers verified by addition, decisions preserved through
+  rewrites, direction re-examined against sunk cost, and jargon scrubbed everywhere.
 license: MIT
 tags:
   - academic-writing
@@ -11,7 +26,7 @@ tags:
   - research-design
   - reviewer-mindset
 agent_created: true
-homepage: https://github.com/jamesting-eng/workbuddy-skills
+homepage: https://github.com/jamesting-eng/reviewer-eye
 ---
 
 # reviewer-eye — Auditing Your Own Draft with a Reviewer's Eyes
